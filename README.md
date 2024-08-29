@@ -15,7 +15,7 @@ Package                      Version
 @angular-devkit/core         17.3.8 (cli-only)
 @angular-devkit/schematics   17.3.8 (cli-only)
 @schematics/angular          17.3.8 (cli-only)
-
+ASP .Net Core Web API         8.0      
 
 Step Two:-
 -> Run the Command 
